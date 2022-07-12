@@ -139,7 +139,7 @@
     "@types/react-transition-group": "^4.4.0",
     "css-loader": "^6.7.1",
     "electron": "^17.1.2",
-    "electron-builder": "^22.14.13",
+    "electron-builder": "^23.1.0",
     "electron-notarize": "^1.0.1",
     "jest": "^27.5.1",
     "nock": "^13.0.5",
