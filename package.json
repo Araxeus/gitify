@@ -138,7 +138,7 @@
     "@types/react-router-dom": "^5.1.6",
     "@types/react-transition-group": "^4.4.0",
     "css-loader": "^6.7.1",
-    "electron": "^17.1.2",
+    "electron": "^18.3.7",
     "electron-builder": "^23.1.0",
     "electron-notarize": "^1.0.1",
     "jest": "^27.5.1",
